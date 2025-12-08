@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jakoly?tab=projects](https://github.com/jakoly?tab=projects)
+- 👨‍💻 All of my projects are available at [https://github.com/jakoly/projects](https://github.com/jakoly?tab=projects)
 
 - 📫 How to reach me **jakob.dreischarf@gmail.com**
 
