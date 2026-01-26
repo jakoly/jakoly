@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Jakob.dreischarf@gmail.com**
 
-- Current Project (https://github.com/jakoly/identFS)
+- Current Project: [IdentFS](https://github.com/jakoly/identFS)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
